@@ -111,4 +111,5 @@ some text here
 some text here
 some text here
 
-[link to anchor tag](#heading-1-here)
+[Go to heading 1](#heading-1-here)
+[Go to heading 2](#heading-2-here)
