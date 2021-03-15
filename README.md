@@ -70,4 +70,4 @@ some text here
 some text here
 some text here
 
-[link to anchor tag](#heading-3-here)
+[link to anchor tag](#heading-1-here)
