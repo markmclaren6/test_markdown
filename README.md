@@ -40,9 +40,9 @@ some text here
 some text here
 some text here
 
-|Table here|Blah
+|Table here|Blah|
 ----------------
-|Cell 1|Cell2
+|Cell 1|Cell2|
 
 
 some text here
@@ -51,6 +51,47 @@ some text here
 some text here
 
 ## heading 3 here
+
+some text here
+some text here
+some text here
+
+
+
+some text here
+some text here
+some text heresome text here
+
+some text here
+
+
+some text here
+some text here
+some text here
+some text here
+
+## heading 4 here
+
+some text here
+some text here
+some text here
+
+
+
+some text here
+some text here
+some text heresome text here
+
+some text here
+
+
+some text here
+some text here
+some text here
+some text here
+
+
+## heading 5 here
 
 some text here
 some text here
